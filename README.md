@@ -1,2 +1,2 @@
 # gaver_stehfast
-A jupyter notebook that demonstrates the applicability extent of the Gaver-Stehfast method in calculating the inverse Laplace Transform for Poisson Distributions
+A jupyter notebook that demonstrates the applicability extent of the Gaver-Stehfast method in calculating the inverse Laplace Transform for Poisson Distributions. The notebook itself can be found [here](https://github.com/jaadt7/gaver_stehfast/blob/main/poisson_catalogue.ipynb). To be able to test modifications for yourself online, you can open it in google colab by clicking here ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaadt7/gaver_stehfast/blob/main/poisson_catalogue.ipynb)
